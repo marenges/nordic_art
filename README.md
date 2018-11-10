@@ -1,4 +1,4 @@
-### nordic_art
+# nordic_art
 
 ## How to use
 - `python nordic <arg>`
